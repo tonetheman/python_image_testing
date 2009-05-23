@@ -1,0 +1,4 @@
+919.png : Windows XP SP2 Opera 9.6
+918.png : Windows XP SP2 Safari 3.1.2
+917.png : Windows XP SP2 Safari 3.1.2
+916.png : Windows XP SP2 Firefox 3.0.9
